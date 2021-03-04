@@ -1,0 +1,1 @@
+### POPO - another version of [Nx](https://github.com/nrwl/nx) tool for managing Polyrepo
